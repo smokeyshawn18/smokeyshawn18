@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shudarsan Paudel
-- 👀 I’m interested in ... Full Stack Developer.
+- 👀 I’m interested in ... Full Stack Development.
 - 🌱 I’m currently learning ... JS Frameworks.
 - 📫 How to reach me ... Link in my Profile.
 - 😄 Pronouns: ... Shawn
