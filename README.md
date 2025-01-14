@@ -4,6 +4,9 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shudarsan-paudel-8bb84a28a/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=react&logoColor=white)](https://shudarsanpaudel.com.np/)
 
+
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=smokeyshawn18)
+
 ## About Me
 Passionate  Web Developer with a focus on JavaScript technologies and modern web development. I believe in writing clean, maintainable code and continuously expanding my technical expertise.
 - 🔭 Currently working on expanding my expertise in JavaScript frameworks
