@@ -21,7 +21,8 @@ Passionate  Web Developer with a focus on JavaScript technologies and modern web
 ![PostgreSQL](https://img.shields.io/badge/postgresql-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/supabase-3ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-ffca28.svg?style=for-the-badge&logo=firebase&logoColor=black)
-![Neon](https://img.shields.io/badge/neon-1E90FF.svg?style=for-the-badge&logo=neon&logoColor=white)
+![Neon](https://img.shields.io/badge/Neon_Serverless_PostgreSQL-1E90FF.svg?style=for-the-badge&logo=neon&logoColor=white)
+
 
 
 <picture>
