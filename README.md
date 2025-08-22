@@ -1,4 +1,4 @@
-## Hello and Welcome to my Github Profile
+## Welcome to my Github Profile
 
 # Shudarsan Paudel | Modern Full Stack Developer
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shudarsan-paudel-8bb84a28a/)
