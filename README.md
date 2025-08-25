@@ -12,7 +12,6 @@ Passionate  Web Developer with a focus on JavaScript technologies and modern web
 - 🔭 Currently working on expanding my expertise in JavaScript frameworks
 - 👯 Open to collaborate on interesting web development projects
 - 💬 Let's talk about: Web Development, MERN Stack, and Clean Code
-- 😄 Known as: Shawn
 - ⚡ Philosophy: "The only way to do great work is to love what you do." - Steve Jobs
 
 
