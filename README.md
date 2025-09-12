@@ -2,10 +2,13 @@
 # Hi, I'm Shudarsan Paudel 👋  
 ### Modern Full Stack Developer | JavaScript | TypeScript | Golang | DevOps
 ---
-<p align="center">
-  <div>
+
+ <div>
       <img src="https://komarev.com/ghpvc/?username=smokeyshawn18&style=flat-square" alt="Profile Views" />
   </div>
+
+<p align="center">
+ 
   <a href="https://www.linkedin.com/in/shudarsan-paudel-8bb84a28a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
