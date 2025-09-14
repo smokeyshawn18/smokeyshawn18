@@ -47,18 +47,20 @@ I am a passionate web developer focused on building modern, performant, and main
 
 ---
 
-## GitHub Stats  
+## 📊 GitHub Stats  
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=smokeyshawn18&theme=dark&show_icons=true&count_private=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=smokeyshawn18&show_icons=true&theme=dark&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=smokeyshawn18&theme=dark" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=smokeyshawn18&theme=dark" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smokeyshawn18&theme=dark&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smokeyshawn18&layout=compact&theme=dark&langs_count=10" alt="Top Languages" />
 </p>
+
 
 ---
 
