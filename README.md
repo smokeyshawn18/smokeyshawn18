@@ -1,5 +1,5 @@
 <!-- Banner -->
-# Hi, I'm Shudarsan Paudel 👋  
+# Hi  👋, I'm Shudarsan Paudel 
 ### Modern Full Stack Developer | JavaScript | TypeScript | Golang | DevOps
 
 ---
