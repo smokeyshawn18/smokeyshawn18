@@ -60,12 +60,12 @@ I'm a full stack developer focused on building scalable, performant, and maintai
 
 ## GitHub Stats
 
-<div align="center">
+
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=smokeyshawn18&show_icons=true&theme=radical)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=smokeyshawn18&theme=radical)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=smokeyshawn18&layout=compact&theme=radical)
 
-</div>
+
 
 ---
 
