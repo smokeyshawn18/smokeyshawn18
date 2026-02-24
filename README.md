@@ -4,7 +4,17 @@
 
 **Full Stack Developer · Nepal 🇳🇵**
 
-[Portfolio](https://shudarsanpaudel.com.np) · [LinkedIn](https://www.linkedin.com/in/shudarsan-paudel-8bb84a28a/) · [Email](mailto:shudarsanpoudel25@gmail.com)
+<p> <img src="https://komarev.com/ghpvc/?username=smokeyshawn18&label=Profile%20views&color=0e75b6&style=flat" alt="smokeyshawn18" /> </p>
+  <a href="https://www.linkedin.com/in/shudarsan-paudel-8bb84a28a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://shudarsanpaudel.com.np/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=react&logoColor=white"/>
+  </a>
+  <a href="mailto:shudarsanpoudel25@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
 
 </div>
 
