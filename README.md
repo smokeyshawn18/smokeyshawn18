@@ -61,12 +61,9 @@ I'm a full stack developer focused on building scalable, performant, and maintai
 ## GitHub Stats
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=smokeyshawn18&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=0f172a&text_color=334155&icon_color=3b82f6)
-
-![Streak Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=smokeyshawn18&theme=default&hide_border=true&background=ffffff&ring=3b82f6&fire=f59e0b&currStreakLabel=0f172a)
-
-![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=smokeyshawn18&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=0f172a&text_color=334155)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=smokeyshawn18&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=smokeyshawn18&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=smokeyshawn18&layout=compact&theme=radical)
 
 </div>
 
