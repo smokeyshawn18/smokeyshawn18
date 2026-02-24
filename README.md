@@ -36,7 +36,7 @@ I primarily work with **JavaScript and TypeScript ecosystems**, and I love trans
 
 ## 🛠️ Tech Stack
 
-<p align="center">
+<p align="center" style="background-color:white">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" height="45"/>
@@ -56,15 +56,9 @@ I primarily work with **JavaScript and TypeScript ecosystems**, and I love trans
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=smokeyshawn18&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smokeyshawn18&layout=compact&theme=default"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=smokeyshawn18&theme=default"/>
-</p>
-
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=smokeyshawn18&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=smokeyshawn18&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=smokeyshawn18&layout=compact&theme=radical)
 ---
 
 ## 🤝 Let's Connect
