@@ -31,7 +31,7 @@ I'm a full stack developer focused on building scalable, performant, and maintai
 
 ---
 
-## Tech Stack
+## My Tech Stack
 
 ### Languages
 <p align="left">
