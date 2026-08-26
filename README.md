@@ -2,7 +2,7 @@
 
 # Shudarsan Paudel
 
-**Full Stack Developer · Nepal 🇳🇵**
+**Software Developer · Nepal 🇳🇵**
 
 <p> <img src="https://komarev.com/ghpvc/?username=smokeyshawn18&label=Profile%20views&color=0e75b6&style=flat" alt="smokeyshawn18" /> </p>
   <a href="https://www.linkedin.com/in/shudarsan-paudel-8bb84a28a/" target="_blank">
