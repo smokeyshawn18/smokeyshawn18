@@ -94,18 +94,6 @@ I'm a full stack developer focused on building scalable, performant, and maintai
   <!-- Row 3 -->
   <tr>
     <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=tanstack" width="48" height="48" alt="TanStack" />
-      <br>TanStack
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=reacthookform" width="48" height="48" alt="RHF" />
-      <br>RHF
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=zod" width="48" height="48" alt="Zod" />
-      <br>Zod
-    </td>
-    <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
       <br>Docker
     </td>
