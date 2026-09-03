@@ -31,6 +31,10 @@ I'm a full stack developer focused on building scalable, performant, and maintai
 
 ---
 
+### 🏆 GitHub Trophies
+
+[![github profile trophy](https://github-profile-trophy.vercel.app/?username=smokeyshawn18&theme=radical&no-reflection=false&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!-- Languages and Tools -->
 <h3 align="center"><samp>Languages and Tools</samp></h3>
 <div style="display: flex; align-items: flex-start; align: center">
