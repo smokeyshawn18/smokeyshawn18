@@ -31,10 +31,11 @@ I'm a full stack developer focused on building scalable, performant, and maintai
 
 ---
 
-<!-- Languages -->
-<h3 align="center"><samp> Languages</samp></h3>
+<!-- Languages and Tools -->
+<h3 align="center"><samp>Languages and Tools</samp></h3>
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
+  <!-- Row 1: Languages -->
   <tr>
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
@@ -48,9 +49,58 @@ I'm a full stack developer focused on building scalable, performant, and maintai
       <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Go" />
       <br>Go
     </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+      <br>React
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+      <br>Next.js
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
+      <br>Tailwind
+    </td>
+  </tr>
+
+  <!-- Row 2: Backend + Databases -->
+  <tr>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+      <br>Node.js
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
+      <br>Express
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+      <br>Docker
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=nginx" width="48" height="48" alt="NGINX" />
+      <br>NGINX
+    </td>
+  </tr>
+
+  <!-- Row 3: OS / Infra -->
+  <tr>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+      <br>Linux
+    </td>
   </tr>
 </table>
 </div>
+
 ## GitHub Stats
 
 
