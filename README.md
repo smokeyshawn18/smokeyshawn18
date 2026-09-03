@@ -35,7 +35,7 @@ I'm a full stack developer focused on building scalable, performant, and maintai
 <h3 align="center"><samp>Languages and Tools</samp></h3>
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
-  <!-- Row 1: Languages -->
+  <!-- Row 1 -->
   <tr>
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
@@ -44,10 +44,6 @@ I'm a full stack developer focused on building scalable, performant, and maintai
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
       <br>TypeScript
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Go" />
-      <br>Go
     </td>
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
@@ -61,9 +57,13 @@ I'm a full stack developer focused on building scalable, performant, and maintai
       <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
       <br>Tailwind
     </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt=".NET" />
+      <br>.NET
+    </td>
   </tr>
 
-  <!-- Row 2: Backend + Databases -->
+  <!-- Row 2 -->
   <tr>
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
@@ -82,6 +82,30 @@ I'm a full stack developer focused on building scalable, performant, and maintai
       <br>PostgreSQL
     </td>
     <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="Redux" />
+      <br>Redux
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=zustand" width="48" height="48" alt="Zustand" />
+      <br>Zustand
+    </td>
+  </tr>
+
+  <!-- Row 3 -->
+  <tr>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=tanstack" width="48" height="48" alt="TanStack" />
+      <br>TanStack
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=reacthookform" width="48" height="48" alt="RHF" />
+      <br>RHF
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=zod" width="48" height="48" alt="Zod" />
+      <br>Zod
+    </td>
+    <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
       <br>Docker
     </td>
@@ -89,10 +113,6 @@ I'm a full stack developer focused on building scalable, performant, and maintai
       <img src="https://skillicons.dev/icons?i=nginx" width="48" height="48" alt="NGINX" />
       <br>NGINX
     </td>
-  </tr>
-
-  <!-- Row 3: OS / Infra -->
-  <tr>
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
       <br>Linux
