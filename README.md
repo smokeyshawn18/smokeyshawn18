@@ -58,8 +58,8 @@ I'm a full stack developer focused on building scalable, performant, and maintai
       <br>Tailwind
     </td>
     <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt=".NET" />
-      <br>.NET
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt=".NET" />
+      <br>Git
     </td>
   </tr>
 
@@ -93,6 +93,10 @@ I'm a full stack developer focused on building scalable, performant, and maintai
 
   <!-- Row 3 -->
   <tr>
+      <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt=".NET" />
+      <br>C
+    </td>
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
       <br>Docker
@@ -105,6 +109,7 @@ I'm a full stack developer focused on building scalable, performant, and maintai
       <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
       <br>Linux
     </td>
+    
   </tr>
 </table>
 </div>
