@@ -1,20 +1,15 @@
 <div align="center">
 
 # Shudarsan Paudel
+**React Developer · Microfrontends · Nepal 🇳🇵**
 
-**Software Developer · Nepal 🇳🇵**
+<p>
+  <img src="https://komarev.com/ghpvc/?username=smokeyshawn18&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
-<p> <img src="https://komarev.com/ghpvc/?username=smokeyshawn18&label=Profile%20views&color=0e75b6&style=flat" alt="smokeyshawn18" /> </p>
-  <a href="https://www.linkedin.com/in/shudarsan-paudel-8bb84a28a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://shudarsanpaudel.com.np/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=react&logoColor=white"/>
-  </a>
-  <a href="mailto:shudarsanpoudel25@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shudarsan-paudel-8bb84a28a/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=react&logoColor=white)](https://shudarsanpaudel.com.np/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shudarsanpoudel25@gmail.com)
 
 </div>
 
@@ -22,118 +17,57 @@
 
 ## About
 
-I'm a full stack developer focused on building scalable, performant, and maintainable applications across the JavaScript and TypeScript ecosystems. I enjoy working across the entire stack — from crafting smooth frontend experiences to designing robust backend systems — and turning ideas into real-world digital products.
+I'm a React Developer currently working as a **React Dev Trainee at Frontbooth Inc.**, where I build and maintain microfrontend architectures using **Turborepo**, **Rsbuild**, and modern React patterns.
 
-- Building modern full stack apps & SaaS products
-- Currently deepening expertise in **Golang**
+Previously, I worked extensively with the **MERN** and **PERN** stacks, building full-stack applications from scratch — handling everything from React frontends to Node.js/Express backends with MongoDB and PostgreSQL.
+
+I focus on writing clean, scalable code and enjoy working across the full stack. Currently deepening my expertise in **Golang** and modern frontend architecture.
+
+- Building modern web applications & SaaS products
+- Experience with MERN, PERN, and microfrontend architectures
+- Working with monorepos, modern build tools, and performance optimization
 - Open to collaboration and open-source contributions
-- Ask me about **Next.js · React · TypeScript · Node.js · Express · Golang**
+- Ask me about **React · TypeScript · Next.js · Microfrontends · Turborepo · Rsbuild · Node.js · Express · MongoDB · PostgreSQL**
 
 ---
 
-<!-- Languages and Tools -->
-<h3 align="center"><samp>Languages and Tools</samp></h3>
-<div style="display: flex; align-items: flex-start; align: center">
-<table align="center">
-  <!-- Row 1 -->
-  <tr>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
-      <br>TypeScript
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-      <br>React
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
-      <br>Next.js
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
-      <br>Tailwind
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt=".NET" />
-      <br>Git
-    </td>
-  </tr>
+### Languages & Tools
 
-  <!-- Row 2 -->
-  <tr>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-      <br>Node.js
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
-      <br>Express
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-      <br>MongoDB
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-      <br>PostgreSQL
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="Redux" />
-      <br>Redux
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=zustand" width="48" height="48" alt="Zustand" />
-      <br>Zustand
-    </td>
-  </tr>
+<div align="center">
 
-  <!-- Row 3 -->
-  <tr>
-      <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt=".NET" />
-      <br>C
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-      <br>Docker
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=nginx" width="48" height="48" alt="NGINX" />
-      <br>NGINX
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-      <br>Linux
-    </td>
-    
-  </tr>
-</table>
+| Frontend | Backend & Database | Infrastructure |
+|:--------:|:------------------:|:--------------:|
+| ![JavaScript](https://skillicons.dev/icons?i=js) | ![Node.js](https://skillicons.dev/icons?i=nodejs) | ![Docker](https://skillicons.dev/icons?i=docker) |
+| ![TypeScript](https://skillicons.dev/icons?i=ts) | ![Express](https://skillicons.dev/icons?i=express) | ![NGINX](https://skillicons.dev/icons?i=nginx) |
+| ![React](https://skillicons.dev/icons?i=react) | ![MongoDB](https://skillicons.dev/icons?i=mongodb) | ![Linux](https://skillicons.dev/icons?i=linux) |
+| ![Next.js](https://skillicons.dev/icons?i=nextjs) | ![PostgreSQL](https://skillicons.dev/icons?i=postgres) | ![Git](https://skillicons.dev/icons?i=git) |
+| ![Tailwind](https://skillicons.dev/icons?i=tailwind) | ![Redux](https://skillicons.dev/icons?i=redux) | ![C](https://skillicons.dev/icons?i=c) |
+| ![Zustand](https://skillicons.dev/icons?i=zustand) | | |
+
 </div>
+
+---
 
 ## GitHub Stats
 
+<div align="center">
+
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=smokeyshawn18&show_icons=true&theme=radical&count_private=true)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=smokeyshawn18&theme=radical)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=smokeyshawn18&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=smokeyshawn18&theme=radical)
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=smokeyshawn18&layout=compact&theme=radical)
 
-
+</div>
 
 ---
 
 ## Let's Connect
 
-I'm always open to meaningful work — whether that's a collaboration, an open-source project, or just a good conversation about technology.
+I'm always open to meaningful work — whether that's collaboration, open-source, or just a good conversation about technology.
 
 **[shudarsanpoudel25@gmail.com](mailto:shudarsanpoudel25@gmail.com) · [shudarsanpaudel.com.np](https://shudarsanpaudel.com.np)**
 
 ---
 
 <div align="center">
-
-*"The only way to do great work is to love what you do." — Steve Jobs*
-
+<em>"The only way to do great work is to love what you do." — Steve Jobs</em>
 </div>
