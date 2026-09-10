@@ -42,7 +42,7 @@ I focus on writing clean, scalable code and enjoy working across the full stack.
 | ![React](https://skillicons.dev/icons?i=react) | ![MongoDB](https://skillicons.dev/icons?i=mongodb) | ![Linux](https://skillicons.dev/icons?i=linux) |
 | ![Next.js](https://skillicons.dev/icons?i=nextjs) | ![PostgreSQL](https://skillicons.dev/icons?i=postgres) | ![Git](https://skillicons.dev/icons?i=git) |
 | ![Tailwind](https://skillicons.dev/icons?i=tailwind) | ![Redux](https://skillicons.dev/icons?i=redux) | ![C](https://skillicons.dev/icons?i=c) |
-| ![Zustand](https://skillicons.dev/icons?i=zustand) | | |
+| ![Zustand](https://skillicons.dev/icons?i=zustand) | | ![Golang](https://skillicons.dev/icons?i=go) |
 
 </div>
 
